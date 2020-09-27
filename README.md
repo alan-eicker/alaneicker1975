@@ -1,5 +1,5 @@
 # Alan Eicker
-### Front-End Engineer, JavaScript Enthusiast, Accessibility Advocate
+### Front-End Engineer, JavaScript Enthusiast, Accessibility Advocate.
 
 I began my journey thirteen years ago as a junior front-end engineer for a small design company building ColdFusion websites for construction companies. Today, I lead the front-end efforts for one of America's largest insurance companies, working with technologies such as React and Node.js.
 
