@@ -14,3 +14,31 @@ Throughout my career, I've seen the Web grow from simple static HTML websites in
 - Accessibility
 - Component Libraries
 - Styleguides
+
+### Core Principles
+
+#### Accessibility
+
+Modern user experiences should strive to be empathetic, accommodating users with visual, cognitive and motor disabilities.
+
+#### Code Quality
+
+Quality and consistency is always top priority. Tools like ESLint, Prettier, Stylelint, Jest, and SonarQube help enforce code quality.
+
+#### Mobile First
+
+Nowadays, mobile-first development is key. Responsive, accessible, mobile-friendly user experiences are a must have.
+
+### Organizations
+
+[Atomik UI](https://github.com/atomikui)
+
+### find Me on the Web
+
+- [LinkedIn](https://www.linkedin.com/in/alaneicker)
+- [CodePen](https://codepen.io/alaneicker)
+- [Medium](https://medium.com/@alaneicker)
+
+### Get in Touch
+
+[alaneicker@gmail.com](mailto:alaneicker@gmail.com)
