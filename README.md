@@ -31,7 +31,7 @@ Nowadays, mobile-first development is key. Responsive, accessible, mobile-friend
 
 ### GitHub Organizations
 
-[Atomik UI](https://github.com/atomikui) - Founder. Home of [atomikui-core](https://github.com/atomikui/atomikui-core) and [atomikui-core-sass](https://github.com/atomikui/atomikui-core-sass)
+[Atomik UI](https://github.com/atomikui) - Founder & contributor
 
 ### find Me on the Web
 
