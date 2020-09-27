@@ -29,9 +29,9 @@ Quality and consistency is always top priority. Tools like ESLint, Prettier, Sty
 
 Nowadays, mobile-first development is key. Responsive, accessible, mobile-friendly user experiences are a must have.
 
-### Organizations
+### GitHub Organizations
 
-[Atomik UI](https://github.com/atomikui)
+[Atomik UI](https://github.com/atomikui) - Founder. Home of [atomikui-core](https://github.com/atomikui/atomikui-core) and [atomikui-core-sass](https://github.com/atomikui/atomikui-core-sass)
 
 ### find Me on the Web
 
